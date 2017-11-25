@@ -1,0 +1,5 @@
+* use google chrome *
+1. cd to project dir
+2. activate environment
+3. tensorboard --logdir logs
+4. http://localhost:6006
